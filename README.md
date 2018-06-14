@@ -30,3 +30,12 @@ print s
 1. WhiteCastle
 1. Wendy's
 1. BurgerKing
+
+|Restaurant  | Item                   | Quality |
+| ---------- |:----------------------:| -------:|
+|McDonalds   | McDouble               | Great   |
+|Chick-fil-a | Spicy Chicken Sandwich | Great   |
+|WhilteCastle| Sliders                | Good    |
+|Wendy's     | French Frys            | Okay    |
+|BurgerKing  | Everything             | Bad     |
+
