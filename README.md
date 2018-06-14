@@ -16,3 +16,10 @@ print s
 ```
 >Block Quote
 >>This is a block quote that explains why McDonalds is better than BurgerKing.  McDonalds has delicious cheap food that is not as greesy as BurgerKing. Blah blah blah blah blah more words.
+
+#### Unordered List of fast food restaurants:
+- Wendy's
+- Chick-fil-A
+- McDonald's
+- BurgerKing
+- WhiteCastle
