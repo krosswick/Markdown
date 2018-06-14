@@ -7,4 +7,6 @@
 ![](image/mc.gif)
 -----------------
 
-[In case you'd rather have BurgerKing, click here!](https://github.com/krosswick/Markdown/blob/master/burgerking.md)
+#### [In case you'd rather have BurgerKing, click here!](https://github.com/krosswick/Markdown/blob/master/burgerking.md)
+
+#### [Image of McDonalds that is located on the web.](https://www.reachmee.com/en/kundcase/mcdonalds/)
