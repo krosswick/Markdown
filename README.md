@@ -24,14 +24,9 @@ print s
 - BurgerKing
 - WhiteCastle
 
-#### Ordered List of fast food restaurants:
+#### Ordered List (1 Being the best) of fast food restaurants:
 1. McDonald's
-  > Great
 1. Chick-fil-A
-  > Good
 1. WhiteCastle
-  > Pretty good
 1. Wendy's
-  > Okay
 1. BurgerKing
-  > Bad
