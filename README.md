@@ -39,3 +39,12 @@ print s
 |Wendy's     | French Frys            | Okay    |
 |BurgerKing  | Everything             | Bad     |
 
+**This is bold text**
+
+*This is italicized text
+
+This is a ~Strikethrough~
+
+Below this line is a horizontal rule.
+
+---
