@@ -23,3 +23,12 @@ print s
 - McDonald's
 - BurgerKing
 - WhiteCastle
+
+#### Ordered List of fast food restaurants:
+1. McDonald's
+1. Chick-fil-A
+1. WhiteCastle
+1. Wendy's
+1. BurgerKing
+
+
