@@ -26,11 +26,12 @@ print s
 
 #### Ordered List of fast food restaurants:
 1. McDonald's
-  * Great
+  > Great
 1. Chick-fil-A
-  * Good
+  > Good
 1. WhiteCastle
-  * Pretty good
+  > Pretty good
 1. Wendy's
-  * Okay
-1. BurgerKing * Bad
+  > Okay
+1. BurgerKing
+  > Bad
