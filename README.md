@@ -41,7 +41,7 @@ print s
 
 **This is bold text**
 
-*This is italicized text
+*This is italicized text*
 
 This is a ~Strikethrough~
 
