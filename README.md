@@ -7,4 +7,4 @@
 ![](image/mc.gif)
 -----------------
 
-burgerkind.md
+[In case you'd rather have BurgerKing, click here!](https://github.com/krosswick/Markdown/blob/master/burgerking.md)
