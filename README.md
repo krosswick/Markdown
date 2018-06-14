@@ -33,5 +33,4 @@ print s
   * Pretty good
 1. Wendy's
   * Okay
-1. BurgerKing
-  * Bad
+1. BurgerKing * Bad
