@@ -1,8 +1,7 @@
 ## McDonalds
 
-#### Menu Items
-
-https://www.mcdonalds.com/us/en-us.html
+#### Menu Items:
+#### https://www.mcdonalds.com/us/en-us.html
 
 
 ![](image/mc.gif)
